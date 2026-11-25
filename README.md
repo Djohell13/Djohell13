@@ -1,3 +1,5 @@
+🌐 *English version available here: [README.en.md](README.en.md)*
+
 # Bonjour, je suis Joël TERMONDJIAN
 
 ### Data Analyst • Analyse Financière & Risques (20 ans XP) • Fondateur de Mistral Finance
