@@ -1,4 +1,4 @@
-🌐 *English version available here: [README.en.md](README.en.md)*
+🌐 *English version available [**here**](README.en.md)*
 
 # Bonjour, je suis Joël TERMONDJIAN
 
