@@ -1,4 +1,4 @@
-🇫🇷 *Version française disponible ici : [README.md](README.md)*
+🇫🇷 *Version française disponible ici : [**ici**](README.md)*
 
 # Hi, I'm Joël TERMONDJIAN
 
