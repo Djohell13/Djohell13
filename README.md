@@ -8,7 +8,7 @@ Pendant **20 ans dans le secteur bancaire**, j'ai analysé des bilans, évalué 
 
 ### Pourquoi la Data et la Banque/Finance vont de pair
 
-Un bon chiffre sans contexte métier peut mener à une mauvaise décision ; une intuition métier sans donnée fiable reste fragile. Mon approche repose sur une logique simple :
+Un bon chiffre sans contexte métier peut mener à une mauvaise décision, une intuition métier sans donnée fiable reste fragile. Mon approche repose sur une logique simple :
 
 1. **Comprendre le risque avant de le modéliser :** 20 ans d'analyse crédit et d'accompagnement client permettent d'identifier ce qui compte vraiment dans une liasse fiscale, un flux de trésorerie ou un comportement client — et d'éviter de courir après de faux signaux.
 2. **Rendre la donnée lisible et actionnable :** Transformer des données brutes ou dispersées en indicateurs clairs, requêtes fiables et tableaux de bord exploitables par les décideurs et équipes métier.
