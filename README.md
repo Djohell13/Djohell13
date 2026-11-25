@@ -10,7 +10,7 @@ Pendant **20 ans dans le secteur bancaire**, j'ai analysé des bilans, évalué 
 
 Un bon chiffre sans contexte métier peut mener à une mauvaise décision, une intuition métier sans donnée fiable reste fragile. Mon approche repose sur une logique simple :
 
-1. **Comprendre le risque avant de le modéliser :** 20 ans d'analyse crédit et d'accompagnement client permettent d'identifier ce qui compte vraiment dans une liasse fiscale, un flux de trésorerie ou un comportement client — et d'éviter de courir après de faux signaux.
+1. **Comprendre le risque avant de le modéliser :** 20 ans d'analyse crédit et d'accompagnement client permettent d'identifier ce qui compte vraiment dans une liasse fiscale, un flux de trésorerie ou un comportement client et d'éviter de courir après de faux signaux.
 2. **Rendre la donnée lisible et actionnable :** Transformer des données brutes ou dispersées en indicateurs clairs, requêtes fiables et tableaux de bord exploitables par les décideurs et équipes métier.
 3. **Garder un pied dans le réel :** Mon activité de courtier en financement me maintient au contact direct des dossiers, des critères bancaires et des réalités économiques des entreprises et des particuliers.
 
@@ -39,6 +39,6 @@ Outil d'analyse et d'aide à la décision crédit permettant d'explorer et d'év
 
 ### Contact & Liens
 
-- **LinkedIn :** *https://www.linkedin.com/in/joel-termondjian/*
+- **LinkedIn :** [linkedin.com/in/joel-termondjian](https://www.linkedin.com/in/joel-termondjian/)
 - **Projet déployé :** [huggingface.co/spaces/Djohell/business-risk](https://huggingface.co/spaces/Djohell/business-risk)
 - **Localisation :** Arles / Région PACA — Mobilité selon opportunités
